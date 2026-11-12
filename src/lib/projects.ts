@@ -1,15 +1,5 @@
 export const projects = [
   {
-    id: "mox-recibos",
-    name: "Mox Recibos",
-    category: "Produtividade · Aplicação web",
-    description:
-      "Editor de recibos, faturas e contratos com biblioteca de modelos, rascunhos salvos no navegador e exportação em PDF.",
-    url: "https://moxrecibos.vercel.app/",
-    image: "/projects/mox-recibos.jpg",
-    accent: "#a16af0",
-  },
-  {
     id: "irene",
     name: "Irene Comida Saudável",
     category: "Alimentação · Cardápio digital",
@@ -68,6 +58,16 @@ export const projects = [
     url: "https://scarpacheveiro24h.vercel.app/",
     image: "/projects/scarpa.jpg",
     accent: "#b6b9aa",
+  },
+  {
+    id: "mox-recibos",
+    name: "Mox Recibos",
+    category: "Produtividade · Aplicação web",
+    description:
+      "Editor de recibos, faturas e contratos com biblioteca de modelos, rascunhos salvos no navegador e exportação em PDF.",
+    url: "https://moxrecibos.vercel.app/",
+    image: "/projects/mox-recibos.jpg",
+    accent: "#a16af0",
   },
   {
     id: "dental-blue-birdie",
