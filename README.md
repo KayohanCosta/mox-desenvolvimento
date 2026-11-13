@@ -22,6 +22,26 @@ A implementação foi organizada para privilegiar **conteúdo legível, renderiz
 
 > **Escopo real:** site institucional e portfólio. Não há neste repositório autenticação, backend de CRM, banco de dados, checkout ou armazenamento de leads. A interação de contato prepara uma mensagem para revisão e envio pelo próprio visitante.
 
+## Galeria do site
+
+### Hero orbital
+
+[![Página inicial da MOX com projetos do portfólio orbitando a marca](./docs/capturas/hero-orbital.webp)](./docs/capturas/hero-orbital.webp)
+
+### Experiência digital
+
+[![Painel interativo de experiência digital com prévia do site Di Mariachi](./docs/capturas/experiencia-digital.webp)](./docs/capturas/experiencia-digital.webp)
+
+### Serviços
+
+[![Catálogo de serviços da MOX em uma grade de cartões](./docs/capturas/catalogo-de-servicos.webp)](./docs/capturas/catalogo-de-servicos.webp)
+
+### Portfólio
+
+[![Portfólio com prévias dos projetos One Two Drink e G3 Gamer Store](./docs/capturas/portfolio-de-projetos.webp)](./docs/capturas/portfolio-de-projetos.webp)
+
+**Mais capturas** · [Metodologia de projeto](./docs/capturas/metodologia-de-projeto.webp) · [Perguntas frequentes](./docs/capturas/perguntas-frequentes.webp) · [Contato e rodapé](./docs/capturas/contato-e-rodape.webp)
+
 ## Funcionalidades
 
 | Capacidade | Implementação |
