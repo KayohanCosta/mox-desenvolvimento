@@ -7,7 +7,7 @@
 
   Fortaleza, Ceará · Atendimento online em todo o Brasil
 
-  [Arquitetura](./docs/ARCHITECTURE.md) · [Contribuição](./CONTRIBUTING.md) · [Portfólio](./src/lib/projects.ts)
+  [Portfólio](./src/lib/projects.ts) · [Arquitetura](./docs/ARCHITECTURE.md) · [Segurança](./SECURITY.md)
 </div>
 
 ---
@@ -197,9 +197,15 @@ Uma alteração candidata a produção deve passar por:
 
 Esses itens estão **planejados**, não devem ser interpretados como funcionalidades concluídas.
 
-## Contribuição e publicação
+## Segurança e direitos de uso
 
-As convenções de branch, revisão e critérios de aceite estão em [CONTRIBUTING.md](./CONTRIBUTING.md). Este repositório não executa deploy de produção a partir de pull requests de documentação ou refatoração.
+A MOX. prioriza a comunicação privada e responsável de problemas de segurança. Consulte [SECURITY.md](./SECURITY.md) para saber como reportar uma vulnerabilidade. **Não publique informações sensíveis em issues públicas.**
+
+**© 2026 MOX Desenvolvimento. Todos os direitos reservados.**
+
+Este repositório é público para fins de apresentação institucional, portfólio e demonstração técnica. **O código não é disponibilizado sob as licenças MIT, Apache-2.0 ou qualquer outra licença open source.** Sua publicação no GitHub não concede autorização geral para reproduzir, modificar, redistribuir ou explorar comercialmente os materiais próprios da MOX., além dos direitos previstos nos termos da plataforma e na legislação aplicável.
+
+Para solicitar permissão de uso, entre em contato pelos [canais institucionais](./src/app/contato/page.tsx).
 
 ---
 
